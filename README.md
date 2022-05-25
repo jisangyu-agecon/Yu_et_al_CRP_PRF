@@ -11,3 +11,4 @@ This folder has the datasets used in the study:
 1. 1_data_cleaning.do: This is the Stata do file that generates the datasets in the data folder from the raw data. The raw data are all publicly available and described in the paper.
 2. 2_main_analysis.R: This is the R code that replicates the results in the paper.
 3. 3_appendix_RI.R and 4_appendix_RI.do: These codes replicate the permutation-based placebo test results in the appendix.
+4. 5_appendix_twfe2009.do: This replicates the appendix figure A7.
